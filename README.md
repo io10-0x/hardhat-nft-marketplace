@@ -89,7 +89,7 @@ This NFT Marketplace project covers the development of a decentralized NFT marke
 - Developed using Vite, Wagmi, ConnectKit, and Chakra UI.
 - Styled with Chakra UI components for a clean user interface.
 - Implemented useReadContract and useWriteContract hooks for blockchain interactions.
-- <a href=""https://github.com/io10-0x/frontendnft-marketplace-io10"><strong>See Front End Directory</strong></a>
+- <a href="https://github.com/io10-0x/frontendnft-marketplace-io10"><strong>See Front End Directory</strong></a>
 
 ## 4. Self-Hosted Backend Server:
 
