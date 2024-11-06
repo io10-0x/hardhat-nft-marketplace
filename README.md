@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">Nft Marketplaceb</h3>
+<h3 align="center">Nft Marketplace</h3>
 
   <p align="center">
     Nft Marketplace Smart Contract
