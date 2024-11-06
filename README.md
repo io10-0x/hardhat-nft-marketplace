@@ -87,14 +87,14 @@ This NFT Marketplace project covers the development of a decentralized NFT marke
 - Developed using Vite, Wagmi, ConnectKit, and Chakra UI.
 - Styled with Chakra UI components for a clean user interface.
 - Implemented useReadContract and useWriteContract hooks for blockchain interactions.
-- <a href="https://github.com/io10-0x/hardhat-nft-marketplace"><strong>See Front End Directory</strong></a>
+- <a href=""https://github.com/io10-0x/frontendnft-marketplace-io10"><strong>See Front End Directory</strong></a>
 
 ## 4. Self-Hosted Backend Server:
 
 - Configured a self-hosted Moralis server with MongoDB, Redis, and ngrok for real-time event listening and data storage.
 - Utilized cloud functions and triggers for database operations.
 - Implemented event listeners for handling ItemListed, ItemBought, and ItemUnlisted events.
-- <a href="https://github.com/io10-0x/hardhat-nft-marketplace"><strong>See Self Hosted Server Directory</strong></a>
+- <a href="https://github.com/io10-0x/self-hosted-moralisbackend-parse-server-migration"><strong>See Self Hosted Server Directory</strong></a>
 
 ## Setup Guide
 
