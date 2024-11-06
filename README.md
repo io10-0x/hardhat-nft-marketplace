@@ -67,8 +67,8 @@
 ## Overview
 
 This NFT Marketplace project covers the development of a decentralized NFT marketplace, involving the creation of smart contracts, front-end development using Vite, and the implementation of a Moralis self-hosted server for event listening and database management. The project integrates blockchain concepts with modern web development practices, featuring listings, purchases, and updates to NFTs.
-<a href="https://github.com/io10-0x/hardhat-nft-marketplace"><strong>See Front End Directory</strong></a>
-<a href="https://github.com/io10-0x/hardhat-nft-marketplace"><strong>See Self Hosted Server Directory</strong></a>
+<a href="https://github.com/io10-0x/frontendnft-marketplace-io10"><strong>See Front End Directory</strong></a>
+<a href="https://github.com/io10-0x/self-hosted-moralisbackend-parse-server-migration"><strong>See Self Hosted Server Directory</strong></a>
 
 ## Key Features
 
